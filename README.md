@@ -20,11 +20,5 @@ Why BlindMoov? To put it simply, we realized that there are more than X Million 
 
 ### 3) Social Links 
 
-<img alt="Twitter" src="https://img.shields.io/badge/Twitter-58ACFA.svg?style=for-the-badge&logo=twitter&logoColor=white"/>
-<img alt="IFacebook" src="https://img.shields.io/badge/Facebook-blue.svg?style=for-the-badge&logo=Facebook&logoColor=white"/>
-<img alt="Discord" src="https://img.shields.io/badge/Discord-8181F7.svg?style=for-the-badge&logo=Discord&logoColor=white"/>
-<img alt="Instagram" src="https://img.shields.io/badge/Instagram-magenta.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
-<img alt="Youtube" src="https://img.shields.io/badge/YouTube-darkred.svg?style=for-the-badge&logo=Youtube&logoColor=white"/>
-<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-darkblue.svg?style=for-the-badge&logo=Linkedin&logoColor=white"/>
-<img alt="Github" src="https://img.shields.io/badge/Github-black.svg?style=for-the-badge&logo=github&logoColor=white"/>
+<img alt="Twitter" src="https://img.shields.io/badge/Twitter-58ACFA.svg?style=for-the-badge&logo=twitter&logoColor=white"/><img alt="IFacebook" src="https://img.shields.io/badge/Facebook-blue.svg?style=for-the-badge&logo=Facebook&logoColor=white"/><img alt="Discord" src="https://img.shields.io/badge/Discord-8181F7.svg?style=for-the-badge&logo=Discord&logoColor=white"/><img alt="Instagram" src="https://img.shields.io/badge/Instagram-magenta.svg?style=for-the-badge&logo=Instagram&logoColor=white"/><img alt="Youtube" src="https://img.shields.io/badge/YouTube-darkred.svg?style=for-the-badge&logo=Youtube&logoColor=white"/><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-darkblue.svg?style=for-the-badge&logo=Linkedin&logoColor=white"/><img alt="Github" src="https://img.shields.io/badge/Github-black.svg?style=for-the-badge&logo=github&logoColor=white"/>
 
