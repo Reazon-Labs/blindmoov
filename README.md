@@ -1,4 +1,4 @@
-<img alt="LOGO" src="http://image.noelshack.com/fichiers/2022/10/7/1647171353-logo-small.png"/>
+<img alt="LOGO" src="http://image.noelshack.com/fichiers/2022/10/7/1647171426-logo-large.png"/>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
