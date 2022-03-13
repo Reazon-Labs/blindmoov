@@ -1,70 +1,30 @@
 <img alt="LOGO" src="http://image.noelshack.com/fichiers/2022/10/7/1647171426-logo-large.png"/>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# BlindMoov Project by Reazon-Team
 
-## Available Scripts
+### 1) What is BlindMoov ?
 
-In the project directory, you can run:
+BlindMoov is a project designed by three students in electrical engineering, the project aims to help visually impaired people on a daily basis by offering them a pair of glasses that detect nearby obstacles and guide them in their movements. Equipped with three high-precision focal sensors, our sensors being connected to a sound device, the closer you get to the danger, the more the latter emits a warning signal quickly and strongly in order to prevent the source of danger.
 
-### `npm start`
+the brand "BlindMoov" comes from "Blind" which means visually impaired / blind and "Moov" which is a term meaning movement, the name means concretely "Movement for the visually impaired".
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Why BlindMoov? To put it simply, we realized that there are more than X Million French people with visual impairment (about XX%), and that they are more vulnerable when it comes to their own safety, we wanted to remedy this problem by creating products adapted to their needs, this is how BlindMoov was born.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### 2) Some pictures !
 
-### `npm test`
+<img alt="LOGO" src="http://image.noelshack.com/fichiers/2022/10/7/1647172069-capture.png"/>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<img alt="LOGO" src="http://image.noelshack.com/fichiers/2022/10/7/1647172122-capture2.png"/>
 
-### `npm run build`
+<img alt="LOGO" src="http://image.noelshack.com/fichiers/2022/10/7/1647172146-capture3.png"/>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### 3) Social Links 
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<img alt="Twitter" src="https://img.shields.io/badge/Twitter-58ACFA.svg?style=for-the-badge&logo=twitter&logoColor=white"/>
+<img alt="IFacebook" src="https://img.shields.io/badge/Facebook-blue.svg?style=for-the-badge&logo=Facebook&logoColor=white"/>
+<img alt="Discord" src="https://img.shields.io/badge/Discord-8181F7.svg?style=for-the-badge&logo=Discord&logoColor=white"/>
+<img alt="Instagram" src="https://img.shields.io/badge/Instagram-magenta.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
+<img alt="Youtube" src="https://img.shields.io/badge/YouTube-darkred.svg?style=for-the-badge&logo=Youtube&logoColor=white"/>
+<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-darkblue.svg?style=for-the-badge&logo=Linkedin&logoColor=white"/>
+<img alt="Github" src="https://img.shields.io/badge/Github-black.svg?style=for-the-badge&logo=github&logoColor=white"/>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
